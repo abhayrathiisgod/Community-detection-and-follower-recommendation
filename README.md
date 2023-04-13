@@ -1,8 +1,5 @@
 
-# Community-detection-and-follower-recommendation for twitter !
-
-#Output generated
-[Screenshot 2023-04-11 090828](https://user-images.githubusercontent.com/86717847/231844652-524bc5d7-bc84-4ffd-94b0-21056a09b915.png)
+# Community-detection-and-follower-recommendation for twitter![Screenshot 2023-04-11 090828](https://user-images.githubusercontent.com/86717847/231844652-524bc5d7-bc84-4ffd-94b0-21056a09b915.png)
 ![Screenshot 2023-04-11 090757](https://user-images.githubusercontent.com/86717847/231844667-55e42ffc-3b04-4186-b2eb-e5f194becd01.png)
 ![Screenshot 2023-04-11 090917](https://user-images.githubusercontent.com/86717847/231844671-cb5881a9-7866-4164-93c0-0fffc2d2ddff.png)
 ![Screenshot 2023-04-11 091104](https://user-images.githubusercontent.com/86717847/231844677-c4e9da05-8ce0-4d27-ab9b-1bd3703fc019.png)
